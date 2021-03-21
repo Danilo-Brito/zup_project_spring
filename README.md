@@ -1,3 +1,7 @@
+<div align="center">
+<img src=https://user-images.githubusercontent.com/61256061/111906876-9e5f2c00-8a31-11eb-8cc5-9a9a8f07b994.png >
+</div>
+
 <h1 align="center"> Zup Spring + Hibernate </h1>
 
 <div align="center">
@@ -8,7 +12,7 @@ Project in Spring using Hibernate, H2 DataBase, Validation, Srping Web, Srping D
 <h2 align="center"> Project </h2>
 
 <div align="center">
-<img src=https://user-images.githubusercontent.com/61256061/111015121-0785d600-8386-11eb-976d-f8da516f4c1d.png >
+<img src=https://user-images.githubusercontent.com/61256061/111906876-9e5f2c00-8a31-11eb-8cc5-9a9a8f07b994.png >
 </div>
 
 </br>
